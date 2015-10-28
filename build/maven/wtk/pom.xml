@@ -7,7 +7,7 @@
     <parent>
         <groupId>net.sf.proguard</groupId>
         <artifactId>proguard-parent</artifactId>
-        <version>5.1</version>
+        <version>5.2.1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>proguard-wtk-plugin</artifactId>
@@ -71,7 +71,7 @@
         <dependency>
             <groupId>wtklib</groupId>
             <artifactId>kenv</artifactId>
-            <version>2.2</version>
+            <version>2.5.2</version>
             <scope>system</scope>
             <systemPath>${wtk.home}/wtklib/kenv.zip</systemPath>
         </dependency>
