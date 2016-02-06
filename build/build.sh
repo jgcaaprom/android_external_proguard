@@ -7,7 +7,7 @@
 #
 
 ANT_HOME=${ANT_HOME:-/usr/share/ant}
-GRADLE_HOME=${GRADLE_HOME:-/usr/lib/gradle/2.10}
+#GRADLE_HOME=${GRADLE_HOME:-/usr/lib/gradle/2.10}
 WTK_HOME=${WTK_HOME:-/home/jorge/Downloads/WTK2.5.2}
 
 if [ -z $PROGUARD_HOME ]; then
